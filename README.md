@@ -1,0 +1,1 @@
+This dashboard, developed in Power BI, presents the PMFBY monthly report up to July 2024. It has been embedded within an HTML file. To view the dashboard, please download the HTML file and open it in any web browser.
